@@ -34,11 +34,9 @@ open terminal and run this code : "brew install --cask tableau"
 - README.md : Project documentation
 
  🖼️ Dashboard Preview
-Screenshots of the dashboard are included in the Screenshots folder for quick viewing.
-<img width="1280" height="800" alt="Screenshot 2025-12-20 at 12 51 13" src="https://github.com/user-attachments/assets/637cdcfd-d98e-461b-b151-b124a5f727d6" />
+<img width="1392" height="815" alt="Screenshot 2025-12-21 at 01 41 28" src="https://github.com/user-attachments/assets/459799ca-8e04-45ba-b23d-79030b12d83b" />
+![B462131B-B782-4076-B2D2-E007D8FCD06D_1_201_a](https://github.com/user-attachments/assets/f873feaf-5ef9-42c0-80e2-4ea1c4d1431c)
 
-
-📎 Dataset
 IBM HR Analytics Employee Attrition Dataset (public dataset commonly used for HR analytics)
 [https://github.com/nelson-wu/employee-attrition-ml/blob/master/WA_Fn-UseC_-HR-Employee-Attrition.csv]
 ✅ Conclusion

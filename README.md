@@ -39,7 +39,8 @@ open terminal and run this code : "brew install --cask tableau"
 
 IBM HR Analytics Employee Attrition Dataset (public dataset commonly used for HR analytics)
 [https://github.com/nelson-wu/employee-attrition-ml/blob/master/WA_Fn-UseC_-HR-Employee-Attrition.csv]
-✅ Conclusion
+
+Conclusion
 This dashboard provides a comprehensive overview of workforce composition and employment trends.
 It can help organizations identify workforce patterns, optimize HR strategies, and support
 employee retention initiatives.

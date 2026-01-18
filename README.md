@@ -1,5 +1,13 @@
  IBM HR Analytics Dashboard (Tableau)
 
+  🖼️ Dashboard Preview
+<img width="1392" height="815" alt="Screenshot 2025-12-21 at 01 41 28" src="https://github.com/user-attachments/assets/459799ca-8e04-45ba-b23d-79030b12d83b" />
+![B462131B-B782-4076-B2D2-E007D8FCD06D_1_201_a](https://github.com/user-attachments/assets/f873feaf-5ef9-42c0-80e2-4ea1c4d1431c)
+
+IBM HR Analytics Employee Attrition Dataset (public dataset commonly used for HR analytics)
+[https://github.com/nelson-wu/employee-attrition-ml/blob/master/WA_Fn-UseC_-HR-Employee-Attrition.csv]
+
+
  📊 Project Overview
 This project presents an interactive Tableau dashboard built using the IBM HR Analytics dataset.
 The objective is to analyze employee demographics, job roles, income distribution, and workforce
@@ -19,12 +27,6 @@ open terminal and run this code : "brew install --cask tableau"
 - Screenshots/ : Dashboard images for preview
 - README.md : Project documentation
 
- 🖼️ Dashboard Preview
-<img width="1392" height="815" alt="Screenshot 2025-12-21 at 01 41 28" src="https://github.com/user-attachments/assets/459799ca-8e04-45ba-b23d-79030b12d83b" />
-![B462131B-B782-4076-B2D2-E007D8FCD06D_1_201_a](https://github.com/user-attachments/assets/f873feaf-5ef9-42c0-80e2-4ea1c4d1431c)
-
-IBM HR Analytics Employee Attrition Dataset (public dataset commonly used for HR analytics)
-[https://github.com/nelson-wu/employee-attrition-ml/blob/master/WA_Fn-UseC_-HR-Employee-Attrition.csv]
 
  📌 Key Metrics
 - Total Employees: 1,470
